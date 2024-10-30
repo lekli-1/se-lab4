@@ -1,0 +1,4 @@
+SUCCESS # létrejött egy GT4500
+SUCCESS 
+SUCCESS # a secondary storeból kilőtt egy torpedót
+FAIL # kiürült
